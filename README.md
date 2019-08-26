@@ -1,2 +1,3 @@
 # hello-world
-First repository
+Name: Jarrett Folkert
+Favorite Color: Red
